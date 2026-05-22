@@ -18,4 +18,4 @@ Sou um desenvolvedor focado em criar aplicações web modernas e eficientes, con
 </div>
 
 ### 🛠️ Meu Projeto Principal
-- **[Northwind E-Commerce](https://github.com):** E-commerce PERN Stack com Postgres no Neon e autenticação Clerk.
+- **<a href="https://github.com/Faiscal/northwind" target="_blank">Northwind E-Commerce</a>:** E-commerce PERN Stack com Postgres no Neon e autenticação Clerk.
